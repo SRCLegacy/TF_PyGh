@@ -1,6 +1,6 @@
 """Ejercicio filtrado de muros - Dynamo+Phyton for Revit v2021.
 Para ser usado en la consola de Python En Dynamo
-Integration Github*Pycharm: https://www.youtube.com/watch?v=ZnRkXJRHSUs
+Integration Github+Pycharm: https://www.youtube.com/watch?v=ZnRkXJRHSUs
 Credit: https://www.youtube.com/watch?v=a8MckiothGc
 Mod: Saul Ramos C., May. 2020"""
 # %% Imports
