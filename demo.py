@@ -15,4 +15,12 @@ doc = DocumentManager.Instance.CurrentDBDocument
 
 colector = FilteredElementCollector(doc,doc.ActiveView.Id)
 
-OUT = colector.OfCategory(BuiltInCategory.OST_Walls).ToElements()
+muros = colector.OfCategory(BuiltInCategory.OST_Walls).ToElements()
+
+storefront =
+
+for muro in muros:
+    if muro.Name =="Storefront":
+        storefront.append(muro)
+
+OUT =
